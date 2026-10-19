@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- GitHub 连续打卡信息 -->
+
+<p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=wxcoding&theme=tokyonight&date_format=%5BY%20%5DM%20j"  alt="GitHub Streak Stats"/>
+    </a>
+</p>
+
