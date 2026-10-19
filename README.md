@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-
 - 💬 about ...
 
 <!-- GitHub 连续打卡信息 -->
