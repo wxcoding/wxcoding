@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 about ...
-
 <!-- GitHub 连续打卡信息 -->
 <p align="center">
     <a href="https://git.io/streak-stats">
